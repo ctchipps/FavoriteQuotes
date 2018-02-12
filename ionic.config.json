@@ -1,0 +1,8 @@
+{
+  "name": "FavoriteQuotes",
+  "app_id": "f9369458",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
