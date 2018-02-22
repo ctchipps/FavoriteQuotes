@@ -30,7 +30,7 @@ export class MyApp implements OnInit {
     this.quotesService.fetchQuotes();
   }
   
-  onLoad(page: any){
+  onLoad(page: any){  
     this.nav.setRoot(page);
     this.menuCtrl.close();
   }
